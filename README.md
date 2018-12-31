@@ -1,3 +1,5 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/68605848-6e33-4590-a5a4-406c6f83b7ba/branches/master/badge)](https://appcenter.ms)
+
 Android Vision API Samples
 ============
 
